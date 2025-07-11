@@ -1,0 +1,54 @@
+BEGIN
+
+DISP: 1
+END
+
+PID: p1
+ArrTime: 0
+SrvTime: 10
+Priority: 0
+END
+
+PID: p2
+ArrTime: 0
+SrvTime: 1
+Priority: 2
+END
+
+PID: p3
+ArrTime: 0
+SrvTime: 2
+Priority: 4
+END
+
+PID: p4
+ArrTime: 0
+SrvTime: 1
+Priority: 1
+END
+
+PID: p5
+ArrTime: 0
+SrvTime: 5
+Priority: 5
+END
+
+PID: p6
+ArrTime: 1
+SrvTime: 7
+Priority: 2
+END
+
+PID: p7
+ArrTime: 2
+SrvTime: 4
+Priority: 5
+END
+
+PID: p8
+ArrTime: 6
+SrvTime: 11
+Priority: 0
+END
+
+EOF

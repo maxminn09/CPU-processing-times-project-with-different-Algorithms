@@ -1,0 +1,11 @@
+Server initialised....
+Time: Fri Aug 25 10:52:00 EST 2023, Task: task3.txt, Thread No: 0, Input: 2, Result: 4
+Time: Fri Aug 25 10:52:00 EST 2023, Task: task2.txt, Thread No: 0, Input: 3, Result: 9
+Time: Fri Aug 25 10:52:00 EST 2023, Task: task3.txt, Thread No: 1, Input: 4, Result: 16
+Time: Fri Aug 25 10:52:00 EST 2023, Task: task1.txt, Thread No: 0, Input: 5, Result: 25
+Time: Fri Aug 25 10:52:00 EST 2023, Task: task2.txt, Thread No: 1, Input: 7, Result: 49
+Time: Fri Aug 25 10:52:00 EST 2023, Task: task1.txt, Thread No: 1, Input: 8, Result: 64
+Time: Fri Aug 25 10:52:00 EST 2023, Task: task3.txt, Thread No: 2, Input: 6, Result: 36
+Time: Fri Aug 25 10:52:00 EST 2023, Task: task2.txt, Thread No: 2, Input: 9, Result: 81
+Time: Fri Aug 25 10:52:01 EST 2023, Task: task1.txt, Thread No: 2, Input: 12, Result: 144
+All files processed.

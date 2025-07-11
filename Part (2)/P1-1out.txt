@@ -1,0 +1,52 @@
+P_A1: Waiting for wormhole. Travelling towards Earth
+E_H2: Waiting for wormhole. Travelling towards Proxima-b
+E_H1: Waiting for wormhole. Travelling towards Proxima-b
+P_A2: Waiting for wormhole. Travelling towards Earth
+P_A1: Crossing wormhole Loading 25%.
+P_A1: Crossing wormhole Loading 50%.
+P_A1: Crossing wormhole Loading 75%.
+P_A1: Across the wormhole.
+COUNT = 1
+E_H2: Crossing wormhole Loading 25%.
+E_H2: Crossing wormhole Loading 50%.
+P_A1: Waiting for wormhole. Travelling towards Proxima-b
+E_H2: Crossing wormhole Loading 75%.
+E_H2: Across the wormhole.
+COUNT = 2
+E_H1: Crossing wormhole Loading 25%.
+E_H2: Waiting for wormhole. Travelling towards Earth
+E_H1: Crossing wormhole Loading 50%.
+E_H1: Crossing wormhole Loading 75%.
+E_H1: Across the wormhole.
+COUNT = 3
+P_A2: Crossing wormhole Loading 25%.
+E_H1: Waiting for wormhole. Travelling towards Earth
+P_A2: Crossing wormhole Loading 50%.
+P_A2: Crossing wormhole Loading 75%.
+P_A2: Across the wormhole.
+COUNT = 4
+P_A1: Crossing wormhole Loading 25%.
+P_A2: Waiting for wormhole. Travelling towards Proxima-b
+P_A1: Crossing wormhole Loading 50%.
+P_A1: Crossing wormhole Loading 75%.
+P_A1: Across the wormhole.
+P_A1 Finished.
+COUNT = 5
+E_H2: Crossing wormhole Loading 25%.
+E_H2: Crossing wormhole Loading 50%.
+E_H2: Crossing wormhole Loading 75%.
+E_H2: Across the wormhole.
+E_H2 Finished.
+COUNT = 6
+E_H1: Crossing wormhole Loading 25%.
+E_H1: Crossing wormhole Loading 50%.
+E_H1: Crossing wormhole Loading 75%.
+E_H1: Across the wormhole.
+E_H1 Finished.
+COUNT = 7
+P_A2: Crossing wormhole Loading 25%.
+P_A2: Crossing wormhole Loading 50%.
+P_A2: Crossing wormhole Loading 75%.
+P_A2: Across the wormhole.
+P_A2 Finished.
+COUNT = 8
